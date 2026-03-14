@@ -1,0 +1,9 @@
+{
+  "name": "EduCine AI",
+  "description": "A multimodal educational AI explainer agent that generates summaries, diagrams, images, audio, and video to help students learn any topic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
